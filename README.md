@@ -6,7 +6,7 @@
 Hello my name is Jose Rivera, I'm a software developer and I'm currently studying Software Engineering in University of Puerto Rico at Mayaguez. You can find me on  [![LinkedIn][3.2]][1].
 
 ## &#x270d; Hobbies
-Apart from coding, I'm also love suring and anime.
+Apart from coding, I also like surfing and anime.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)

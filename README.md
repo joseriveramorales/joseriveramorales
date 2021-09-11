@@ -45,5 +45,5 @@ Apart from coding, I'm also love suring and anime.
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-<!-- Awesome GitHub Profile README: https://github.com/MartinHeinz/MartinHeinz/blob/master/README.md -->
+<!-- I used the icons and resources from this Awesome GitHub Profile README: https://github.com/MartinHeinz/MartinHeinz/blob/master/README.md -->
 

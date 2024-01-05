@@ -3,7 +3,7 @@
 
 # Hello, guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hello my name is Jose Rivera, I'm a software developer and I'm currently studying Software Engineering in University of Puerto Rico at Mayaguez. You can find me on  [![LinkedIn][3.2]][1].
+Hello my name is Jose Rivera, I'm a software engineer currently working in Abarca Health. You can find me on  [![LinkedIn][3.2]][1].
 
 ## &#x270d; Hobbies
 Apart from coding, I also like surfing and anime.
